@@ -1,5 +1,5 @@
 	## Brief History
-C is a low level language created by Dennis Ritchie in around 1972 for the UNIX operating system, and is the successor to the B and BCPL programming languages. ^925821
+C is a low level language created by Dennis Ritchie in around 1972 for the UNIX operating system, and is the successor to the B and BCPL programming languages. 
 
 ## Execution Steps of a C Program
 There are multiple steps have occur before a C program is executed:
@@ -179,6 +179,8 @@ Pre-incrementing prints the value after incrementing.
 | <center>\|</center>                                    | <center>Bitwise Inclusive OR</center>                  |
 | <center>`^`</center>                                   | <center>Bitwise Exclusive OR</center>                  |
 | <center>`~`</center>                                   | <center>Bitwise NOT</center>                           |
+| <center>`<<`</center>                                  | <center>Shifts bits to the left</center>               |
+| <center>`>>`</center>                                  | <center>Shifts bits to the right</center>              |
 
 ## Decision Control Statements
 - `if ... else`

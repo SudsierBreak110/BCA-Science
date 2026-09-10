@@ -101,7 +101,7 @@ File systems are still useful in many situations, especially for small and simpl
 
 7. **Maintenance & Administration** - <font color="#f79646">Requires regular monitoring</font> and maintenance
 
-8. **Security Risks** - Centralized data can become a valuable target
+8. **Security Risks** - Centralised data can become a valuable target
 
 
 ## <font color="#4bacc6">Applications of DBMS</font>

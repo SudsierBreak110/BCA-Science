@@ -8,21 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5927742b64515e0f",
+            "id": "1f6cef1b06f5f2cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Number systems and conversions.md",
-                "mode": "source",
-                "source": false
+                "file": "resources/Chapter 2_ER Diagrams in DBMS_Final.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Number systems and conversions"
+              "icon": "lucide-file-text",
+              "title": "Chapter 2_ER Diagrams in DBMS_Final"
             }
           },
           {
-            "id": "c98e3262cefb528b",
+            "id": "be6e1b7624244fe7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -128,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Number systems and conversions.md",
+                "file": "C Basics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
@@ -171,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Number systems and conversions.md",
+                "file": "C Basics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -195,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.1666259765625
+    "width": 324.1666259765625,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,27 +205,32 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5927742b64515e0f",
+  "active": "1f6cef1b06f5f2cd",
   "lastOpenFiles": [
-    "README.md",
-    "Number systems and conversions.md",
-    "Statistics Formulas (Cheat sheet).md",
-    "Statistics.md",
-    "C Basics.md",
-    "Introduction to Database Management System.md",
-    "[[How.md",
     "How the Internet Works.md",
+    "Excalidraw/Drawing 2026-09-10 23.05.57.excalidraw.md",
+    "Statistics.md",
+    "Untitled.md",
+    "resources/Chapter 2_ER Diagrams in DBMS_Final.pdf",
+    "Excalidraw",
+    "resources/Unit 1_Introduction to Database Management System.pdf",
+    "Attachments/applications of dbms.png",
+    "Introduction to Database Management System.md",
+    "C Basics.md",
+    "Number systems and conversions.md",
+    "README.md",
+    "Statistics Formulas (Cheat sheet).md",
+    "[[How.md",
     "Untitled.canvas",
     "desktop.ini",
     "Attachments",
     "2026-08-16.md",
-    "Pdfs/Unit 1_Introduction to Database Management System.pdf",
-    "Attachments/applications of dbms.png",
     "applications of dbms.png.opdownload",
-    "Pdfs",
+    "resources",
     "create a link.md"
   ]
 }
