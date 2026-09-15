@@ -11,22 +11,28 @@
             "id": "1f6cef1b06f5f2cd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "resources/Chapter 2_ER Diagrams in DBMS_Final.pdf"
+                "file": "Financial Literacy.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Chapter 2_ER Diagrams in DBMS_Final"
+              "icon": "lucide-file",
+              "title": "Financial Literacy"
             }
           },
           {
-            "id": "be6e1b7624244fe7",
+            "id": "e9dba1de5efe1046",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Financial Literacy.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Financial Literacy"
             }
           }
         ]
@@ -211,19 +217,20 @@
   },
   "active": "1f6cef1b06f5f2cd",
   "lastOpenFiles": [
-    "How the Internet Works.md",
-    "Excalidraw/Drawing 2026-09-10 23.05.57.excalidraw.md",
+    "Financial Literacy Index.md",
+    "Financial Literacy.md",
+    "Introduction to Database Management System.md",
+    "Number systems and conversions.md",
+    "MySQL.md",
     "Statistics.md",
-    "Untitled.md",
+    "Statistics Formulas (Cheat sheet).md",
+    "C Basics.md",
     "resources/Chapter 2_ER Diagrams in DBMS_Final.pdf",
+    "Excalidraw/Drawing 2026-09-10 23.05.57.excalidraw.md",
     "Excalidraw",
     "resources/Unit 1_Introduction to Database Management System.pdf",
     "Attachments/applications of dbms.png",
-    "Introduction to Database Management System.md",
-    "C Basics.md",
-    "Number systems and conversions.md",
     "README.md",
-    "Statistics Formulas (Cheat sheet).md",
     "[[How.md",
     "Untitled.canvas",
     "desktop.ini",
