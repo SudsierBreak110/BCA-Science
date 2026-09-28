@@ -125,4 +125,10 @@ To convert the fractional part:
 	**0.5 × 2 = 1.0 → 1**        we stop here as the fractional value became `0`.
 
 
+## Gray Code
+
+In this number system, each number is represented by only changing a singular bit from the previous number. This is used in systems which can only modify one bit at a time.
+
+To convert Binary to Gray Code, we keep the MSB (Most Significant Bit, aka the leftmost bit) as it is.
+
 

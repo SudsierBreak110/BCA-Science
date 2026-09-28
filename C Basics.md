@@ -1,4 +1,4 @@
-	## Brief History
+## Brief History
 C is a low level language created by Dennis Ritchie in around 1972 for the UNIX operating system, and is the successor to the B and BCPL programming languages. 
 
 ## Execution Steps of a C Program
